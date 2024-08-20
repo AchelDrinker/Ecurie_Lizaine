@@ -34,7 +34,7 @@ export default function Testimonials() {
             <br/>
             <p className="text-xl text-gray-600" data-aos="zoom-y-out">À son compte depuis 2017, elle a travaillé avec des écuries de propriétaires, des centres équestres, des associations, des élevages et des particuliers.</p>
             <br/>
-            <p className="text-xl text-gray-600" data-aos="zoom-y-out">En 2023, elle se lance dans un nouveau qui lui ressemble, la création de sa propre structure.
+            <p className="text-xl text-gray-600" data-aos="zoom-y-out">En 2023, elle se lance dans un nouveau projet qui lui ressemble, la création de sa propre structure.
             C’est ainsi que l’Ecurie de la Lizaine est née au cœur de Frahier-et-Chatebier (70).
             Cette écurie active, spécialement dédiée aux propriétaires de chevaux, s’inscrit dans une démarche axée sur le bien-être de l’animal. Des prés, des ateliers (brosses, etc) ou encore des boxs s’ouvrant sur de larges paddocks sont proposés.
             Sans oublier le travail du cheval, l’Ecurie de la Lizaine dispose d’un rond de longe et d’une grande carrière, un grand manège est disponible également sur demande.</p>
