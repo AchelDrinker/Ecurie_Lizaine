@@ -101,7 +101,7 @@ export default function FeaturesBlocks() {
               </svg>
               <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Vacances</h4>
               <p className="text-gray-600 text-center">Stage : 60€</p>
-              <p className="text-gray-600 text-center">Passage de galop : Ajout de 12€</p>
+              <p className="text-gray-600 text-center">Passage de galop : Supplément de 12€</p>
               <p className="text-white text-center">_</p>
             </div>
 
