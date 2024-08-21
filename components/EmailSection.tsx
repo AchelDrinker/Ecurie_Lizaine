@@ -54,15 +54,15 @@ const EmailSection = () => {
       {/* Pop-up */}
       {showPopup && (
         <div className="fixed top-0 left-0 w-full h-full bg-black bg-opacity-50 flex justify-center items-center z-50">
-          <div className="bg-[#121212] p-10 flex flex-col items-center relative">
+          <div className="bg-[#121212] p-10 flex flex-col items-center relative rounded-lg">
             <img src="/images/email_sent.png" alt="email_sent" width={64} className="mb-4"/>
-            <h2 className="text-center">Ton email a été envoyé</h2>
+            <h2 className="text-center text-white">Ton email a été envoyé</h2>
             <div className="flex justify-center mt-4">
               <button 
-                className="px-6 py-3 rounded-full bg-gradient-to-r from-blue-600 via-indigo-500 to-green-400 hover:bg-slate-200 text-white"
+                className="px-6 py-3 rounded-full bg-gradient-to-r from-blue-900 via-blue-900 to-blue-900 hover:bg-slate-200 text-white"
                 onClick={closePopup}
               >
-                Close
+                Fermer
               </button>
             </div>
           </div>
