@@ -25,9 +25,9 @@ import {
       <Preview>{subject}</Preview>
       <Body style={main}>
         <Container style={container}>
-          <Heading style={h1}>You have received this message from the portfolio from {name} with this email : {email}</Heading>
+          <Heading style={h1}>Tu as reçu ce message de ton site web de la part de {name} avec l'adresse email : {email}</Heading>
           <Text style={text}>
-            This is your message : {message}
+            Voici le message : {message}
           </Text>
         </Container>
       </Body>
